@@ -27,7 +27,7 @@ export default function Home() {
       <section className="relative w-full min-h-screen flex flex-col items-center justify-center bg-black text-white">
         <Image
           className="absolute top-0 left-0 w-full h-full object-cover opacity-30 blur-sm dark:grayscale"
-          src="/images/mp.jpg"
+          src="/images/MP.jpg"
           alt="Background"
           fill
           priority
