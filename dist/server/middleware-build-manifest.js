@@ -1,0 +1,55 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": [
+      "static/chunks/a044b_next_dist_compiled_next-devtools_index_98a9db1d.js",
+      "static/chunks/a044b_next_dist_compiled_9b76060f._.js",
+      "static/chunks/a044b_next_dist_shared_lib_d4f63479._.js",
+      "static/chunks/a044b_next_dist_client_cdd5bf06._.js",
+      "static/chunks/a044b_next_dist_7691d930._.js",
+      "static/chunks/a044b_next_app_ab11fe75.js",
+      "static/chunks/[next]_entry_page-loader_ts_c91ecd91._.js",
+      "static/chunks/a044b_react-dom_02209264._.js",
+      "static/chunks/a044b_60a4b9fd._.js",
+      "static/chunks/[root-of-the-server]__446a0c27._.js",
+      "static/chunks/mattprasty-profile_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-mattprasty-profile_pages__app_38dcb9dd._.js"
+    ],
+    "/_error": [
+      "static/chunks/a044b_next_dist_compiled_next-devtools_index_98a9db1d.js",
+      "static/chunks/a044b_next_dist_compiled_9b76060f._.js",
+      "static/chunks/a044b_next_dist_shared_lib_fc207c95._.js",
+      "static/chunks/a044b_next_dist_client_cdd5bf06._.js",
+      "static/chunks/a044b_next_dist_16be6eb5._.js",
+      "static/chunks/a044b_next_error_9b068594.js",
+      "static/chunks/[next]_entry_page-loader_ts_a1b41725._.js",
+      "static/chunks/a044b_react-dom_02209264._.js",
+      "static/chunks/a044b_60a4b9fd._.js",
+      "static/chunks/[root-of-the-server]__60a0cf46._.js",
+      "static/chunks/mattprasty-profile_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-mattprasty-profile_pages__error_578234c3._.js"
+    ]
+  },
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/a044b_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_b8759d01._.js",
+    "static/chunks/a044b_next_dist_compiled_react-dom_01a86fb6._.js",
+    "static/chunks/a044b_next_dist_compiled_next-devtools_index_9b41a036.js",
+    "static/chunks/a044b_next_dist_compiled_0008fd4d._.js",
+    "static/chunks/a044b_next_dist_client_58161f6c._.js",
+    "static/chunks/a044b_next_dist_c01e2a62._.js",
+    "static/chunks/a044b_@swc_helpers_cjs_446af7af._.js",
+    "static/chunks/mattprasty-profile_a0ff3932._.js",
+    "static/chunks/turbopack-mattprasty-profile_15af7352._.js"
+  ],
+  "ampFirstPages": []
+};
+globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
+"/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
+,"/static/" + process.env.__NEXT_BUILD_ID + "/_ssgManifest.js",
+
+];

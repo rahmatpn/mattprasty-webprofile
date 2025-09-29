@@ -1,0 +1,23 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/a044b_next_dist_74067bae._.js",
+      "static/chunks/mattprasty-profile_app_favicon_ico_mjs_d72ed387._.js",
+      "static/chunks/[root-of-the-server]__8e57684f._.css",
+      "static/chunks/mattprasty-profile_app_layout_tsx_1711a64e._.js",
+      "static/chunks/a044b_next_dist_client_components_builtin_global-error_e6b0314d.js",
+      "static/chunks/a044b_next_3b5a3315._.js",
+      "static/chunks/mattprasty-profile_app_page_tsx_b900128f._.js",
+      "static/chunks/mattprasty-profile_app_page_tsx_e6b0314d._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_b8759d01._.js",
+      "static/chunks/a044b_next_dist_compiled_react-dom_01a86fb6._.js",
+      "static/chunks/a044b_next_dist_compiled_next-devtools_index_9b41a036.js",
+      "static/chunks/a044b_next_dist_compiled_0008fd4d._.js",
+      "static/chunks/a044b_next_dist_client_58161f6c._.js",
+      "static/chunks/a044b_next_dist_c01e2a62._.js",
+      "static/chunks/a044b_@swc_helpers_cjs_446af7af._.js",
+      "static/chunks/mattprasty-profile_a0ff3932._.js",
+      "static/chunks/turbopack-mattprasty-profile_15af7352._.js"
+    ]
+  }
+}

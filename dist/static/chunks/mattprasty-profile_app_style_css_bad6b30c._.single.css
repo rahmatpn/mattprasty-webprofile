@@ -1,0 +1,15 @@
+/* [project]/mattprasty-profile/app/style.css [app-client] (css) */
+.portfolio-grid {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+}
+
+.portfolio-grid img {
+  border-radius: 12px;
+  width: 200px;
+  height: auto;
+}
+
+/*# sourceMappingURL=mattprasty-profile_app_style_css_bad6b30c._.single.css.map*/

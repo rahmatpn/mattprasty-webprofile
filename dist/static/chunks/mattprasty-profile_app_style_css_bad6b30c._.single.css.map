@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/mattprasty-profile/app/style.css"],"sourcesContent":[".portfolio-grid {\r\n  display: flex;\r\n  flex-wrap: wrap;\r\n  gap: 20px;              /* space between covers */\r\n  justify-content: center; /* centers last row */\r\n}\r\n\r\n.portfolio-grid img {\r\n  width: 200px; /* or your desired size */\r\n  height: auto;\r\n  border-radius: 12px; /* optional, for rounded corners */\r\n}"],"names":[],"mappings":"AAAA;;;;;;;AAOA"}}]
+}
