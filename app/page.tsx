@@ -9,7 +9,9 @@ function FadeInOnScroll({ children, className = "" }: { children: ReactNode; cla
 
   useEffect(() => {
     const observer = new window.IntersectionObserver(
-      ([entry]) => setIsVisible(entry.isIntersecting),
+      ([entry]) => {
+        if (entry.isIntersecting) setIsVisible(true); // hanya set true sekali
+      },
       { threshold: 0.5 }
     );
     if (ref.current) observer.observe(ref.current);
@@ -27,7 +29,6 @@ function FadeInOnScroll({ children, className = "" }: { children: ReactNode; cla
     </div>
   );
 }
-
 // const covers = [
 //   { id: 1, src: "/images/time.jpg", alt: "TIME", href: "https://www.youtube.com/@MattPrasty" },
 //   { id: 2, src: "/images/syphon.jpg", alt: "SYPHON", href: "https://www.youtube.com/@MattPrasty"   },
