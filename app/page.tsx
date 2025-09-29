@@ -144,62 +144,62 @@ export default function Home() {
                   height={300}
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform"
                 />
-              </Link>
-              <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">
-                <a
-                  href="https://www.youtube.com/watch?v=3ORGYZadXBc&list=RD3ORGYZadXBc&start_radio=1"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-blue-400 text-center px-4"
-                >
-                  NewJeans - Hype Boy (Matt Prasty City Pop Remix)
-                </a>
-              </div>
+              
+            <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">
+                     <p className="text-white text-lg font-semibold text-center px-4">NewJeans - Hype Boy (City Pop Remix)</p>
+                </div>
+                </Link>
             </div>
             {/* Remix 2 */}
             <div className="relative group bg-white shadow-md rounded-lg overflow-hidden">
+              <Link href="https://www.youtube.com/watch?v=6s-nDXnISQU&list=RD6s-nDXnISQU&start_radio=1" target="_blank" rel="noreferrer">
               <Image
                 src="/images/perfectnight.jpg"
                 alt="Remix 2"
                 width={400}
                 height={300}
-                className="w-full h-48 object-cover group-hover:scale-105 transition-transform"
+                className="w-full h-full object-cover group-hover:scale-105 transition-transform"
               />
               <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">
-                <p className="text-white text-center px-4">
+                <p className="text-white text-lg font-semibold text-center px-4">
                   LESSERAFIM - Perfect Night (Matt Prasty City Pop Remix)
                 </p>
               </div>
+              </Link>
             </div>
             {/* Remix 3 */}
             <div className="relative group bg-white shadow-md rounded-lg overflow-hidden">
+              <Link href="https://www.youtube.com/watch?v=e8ybbaxw2UM&list=RDe8ybbaxw2UM&start_radio=1" target="_blank" rel="noreferrer">
               <Image
                 src="/images/Newjeansgetup.jpg"
                 alt="Remix 3"
                 width={400}
                 height={300}
-                className="w-full h-48 object-cover group-hover:scale-105 transition-transform"
+                className="w-full h-full object-cover group-hover:scale-105 transition-transform"
               />
               <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">
-                <p className="text-white text-center px-4">
+                <p className="text-white text-lg font-semibold text-center px-4">
                   NewJeans - Get Up (Matt Prasty City Pop Remix)
                 </p>
               </div>
+              </Link>
             </div>
             {/* Remix 4 */}
             <div className="relative group bg-white shadow-md rounded-lg overflow-hidden">
+              <Link href="https://www.youtube.com/watch?v=BjgQ0uuz-JM&list=RDBjgQ0uuz-JM&start_radio=1" target="_blank" rel="noreferrer">
               <Image
                 src="/images/illitmagnetic.jpg"
                 alt="Remix 4"
                 width={400}
                 height={300}
-                className="w-full h-48 object-cover group-hover:scale-105 transition-transform"
+                className="w-full h-full object-cover group-hover:scale-105 transition-transform"
               />
               <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition">
-                <p className="text-white text-center px-4">
+             <p className="text-white text-lg font-semibold text-center px-4">
                   Illit - Magnetic (Matt Prasty City Pop Remix)
                 </p>
               </div>
+              </Link>
             </div>
           </div>
           <h2 className="text-black text-md py-12 text-center">And many more...</h2>
