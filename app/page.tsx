@@ -310,9 +310,9 @@ export default function Home() {
             For inquiries, collaborations, or just to say hi, feel free to reach out!
           </p>
           <a
-            href="mailto: mattprasty.music@gmail.com">
+            href="mailto:">
             <button className="bg-blue-600 text-white px-6 py-3 rounded-full hover:bg-blue-700 transition">
-              Email Me
+              Contact me through my socials
             </button>
           </a>
           </FadeInOnScroll>
